@@ -1,0 +1,212 @@
+# bid|kind|text   (kind: mixed = Korean-English code-mixed, plain = lay wording, jargon = technical/medical wording)
+# Hand-written; each variant keeps the facts of the original narrative and avoids naming the category.
+B01|mixed|직원이 소를 한 pen에서 다른 pen으로 옮기다가 소와 post 사이에 끼어 rib이 부러지고 lung이 punctured 되었으며 chest contusion을 입음.
+B01|plain|A worker was herding cows to another pen and got squeezed between a cow and a post. He broke a rib, a lung was punctured, and his chest was badly bruised.
+B01|jargon|During bovine relocation between enclosures, the worker was pinned between a bovine and a fence post, sustaining a rib fracture, pulmonary puncture, and thoracic contusion.
+B02|mixed|직원이 trail에서 pack mule 뒤쪽을 걷다가 mule이 가슴을 걷어차서 contusion이 생겼고 hospitalization이 필요했음.
+B02|plain|A worker was walking behind pack mules on a trail when one mule kicked him in the chest. His chest was bruised and he had to go to the hospital.
+B02|jargon|While ambulating posterior to equine pack animals on a trail, the worker received a kick to the sternal region, resulting in a contusion requiring inpatient admission.
+B03|mixed|2016년 3월 7일, mobile vet clinic에서 일하던 직원이 고양이에게 bite를 당한 뒤 infection으로 hospitalized 됨.
+B03|plain|On 3/7/16, a worker at a mobile vet clinic was bitten by a cat, got an infection, and was admitted to the hospital.
+B03|jargon|On 3/7/16, a veterinary clinic employee sustained a feline bite with subsequent infection requiring inpatient admission.
+B04|mixed|응급실(ER)에서 combative한 환자가 guard의 head, neck, chest를 때림.
+B04|plain|A security guard in the emergency room was hit on the head, neck and chest by an angry patient.
+B04|jargon|A security officer in the emergency department sustained blows to the cranial, cervical and thoracic regions inflicted by a combative patient.
+B05|mixed|사무실 건물에서 rattlesnake를 제거하는 request를 처리하던 중 뱀이 왼쪽 thumb을 물어 swelling이 생김.
+B05|plain|A worker was removing a rattlesnake from an office building when the snake bit his left thumb and it swelled up.
+B05|jargon|During a crotalid removal call at an office building, the employee sustained a bite to the left pollex with resultant edema.
+B06|mixed|open trench 안에 손을 넣어 conduit을 바로잡다가 venomous snake에게 왼손 finger를 물림.
+B06|plain|A worker put his hand into an open ditch to straighten a pipe for wires and a poisonous snake bit a finger on his left hand.
+B06|jargon|The employee reached into an open excavation to realign electrical conduit and received a venomous snake bite to a digit of the left hand.
+B07|mixed|환자에게 맞아 floor에 쓰러졌고 neck과 back surgery를 위해 hospitalization이 필요했음.
+B07|plain|A worker was hit by a patient and knocked to the floor. She went to the hospital and had surgery on her neck and back.
+B07|jargon|The employee was struck by a patient and displaced to the floor, necessitating inpatient admission and surgical intervention of the cervical and lumbar spine.
+B08|mixed|Fort Bliss의 obstacle course에 참여하다가 obstacle을 넘는 중 insect가 오른손 index finger를 무는 것을 느낌.
+B08|plain|A worker was doing an obstacle course at Fort Bliss. While going over an obstacle, a bug bit his right pointer finger.
+B08|jargon|While traversing an obstacle at the Fort Bliss training course, the employee experienced an arthropod bite to the right index digit.
+B09|mixed|service call로 운전하던 중 Halloween mask를 쓴 사람들이 차를 세우고 직원을 assault 하여 broken jaw와 facial laceration이 발생함.
+B09|plain|A worker was driving to a service call when some people in Halloween masks stopped the car and attacked him. He ended up with a broken jaw and a cut on his face.
+B09|jargon|En route to a service call, the employee's vehicle was halted by masked individuals who perpetrated an assault, resulting in a mandibular fracture and facial laceration.
+B10|mixed|cat room을 청소하다가 고양이를 안으려 했는데 고양이가 왼손을 물었고, bite가 infected 되어 그날 저녁 hospitalization이 필요했음.
+B10|plain|A worker was cleaning the cat room and tried to pick up a cat. The cat bit her left hand, the bite got infected, and she was in the hospital that evening.
+B10|jargon|While sanitizing a feline housing room, the employee attempted to lift a cat and sustained a bite to the left hand; the wound became infected, requiring hospital admission that evening.
+B11|mixed|forklift를 운전하던 중 wet concrete에서 turn할 때 미끄러져 skid of material을 들이받았고, 왼팔이 forklift와 skid 사이에 끼어 fracture 됨.
+B11|plain|A worker was driving a forklift when it slid on wet concrete during a turn and hit a pallet of material. His left arm was squeezed between the forklift and the pallet and broke.
+B11|jargon|While operating a forklift, the vehicle lost traction on wet concrete during a turning maneuver and impacted a material skid, entrapping the operator's left arm and causing a fracture.
+B12|mixed|warehouse로 걸어 들어가다가 forklift에 치였고 foot/leg fracture를 입음.
+B12|plain|A worker was walking into a warehouse when a forklift hit him. His foot or leg was broken.
+B12|jargon|A pedestrian employee entering a warehouse was struck by a powered industrial truck, sustaining a fracture of the lower extremity.
+B13|mixed|ATV를 타던 중 지형 때문에 sudden stop이 발생해 handle bar 너머로 던져져 땅에 떨어졌고, wrists가 dislocated 되어 surgery가 필요했음.
+B13|plain|A worker was riding a four-wheeler when the ground made it stop suddenly. He was thrown over the handlebars onto the ground, both wrists popped out of joint, and he needed surgery.
+B13|jargon|While operating an all-terrain vehicle, abrupt deceleration on uneven terrain ejected the rider over the handlebars, resulting in bilateral wrist dislocations requiring surgical intervention.
+B14|mixed|client와 함께 street를 건너던 중 vehicle에 치여 양쪽 knee, neck, 양쪽 shoulder를 sprain 함.
+B14|plain|A worker was crossing the street with a client when a car hit her. Both knees, her neck and both shoulders were twisted and hurt.
+B14|jargon|While crossing a roadway with a client, the employee was struck by a motor vehicle, sustaining sprains of the bilateral knees, cervical spine, and bilateral shoulders.
+B15|mixed|temporary 직원이 golf cart 위에 서 있었는데 cart가 turn 하면서 balance를 잃고 떨어져 concussion을 입음.
+B15|plain|A temp worker was standing on a golf cart. When it turned, she lost her balance and fell off, and she got a concussion.
+B15|jargon|A temporary employee standing on a golf cart lost postural balance as the vehicle executed a turn and was ejected to the ground, sustaining a concussion.
+B16|mixed|bulldozer의 track 위로 올라가 operator에게 말하려는데 dozer가 앞으로 움직여서 track과 blade 사이로 떨어졌고 pelvis와 legs를 다침.
+B16|plain|A worker stepped onto the track of a bulldozer to talk to the driver. The bulldozer moved forward and he fell between the track and the blade. His hips and legs were hurt.
+B16|jargon|The employee stepped onto the crawler track of a dozer to communicate with the operator; upon forward travel of the machine, he fell between the track and the blade, sustaining pelvic and lower-extremity injuries.
+B17|mixed|forklift로 U-turn을 하려다가 foot이 forklift와 pallet rack 사이에 끼어 fracture 됨.
+B17|plain|A worker was trying to make a U-turn on a forklift when her foot got squeezed between the forklift and a pallet rack and broke.
+B17|jargon|While executing a U-turn on a forklift, the operator's foot was entrapped between the truck and a pallet rack, resulting in a fracture.
+B18|mixed|surveying 작업을 하던 직원이 road grader에 치여 hip, 오른쪽 foot/ankle이 broken 되고 rib도 broken 된 것으로 보이며 hospitalized 됨.
+B18|plain|A road grader hit a worker who was surveying. He broke his hip and right foot or ankle, maybe some ribs, and was taken into the hospital.
+B18|jargon|A motor grader struck an employee conducting survey work, causing a hip fracture, a right foot/ankle fracture, suspected rib fractures, and inpatient admission.
+B19|mixed|forklift로 corner를 돌다가 forks를 adjust 하려던 중 다른 forklift 운전자를 쳤고, 두 번째 lift의 forks에 calf가 laceration 됨.
+B19|plain|A worker was driving a forklift around a corner and tried to adjust his forks. He hit another forklift driver, and the forks of the second forklift cut his calf.
+B19|jargon|While rounding a corner on a forklift, the operator attempted to adjust his tines and collided with another forklift operator, sustaining a calf laceration from the second truck's tines.
+B20|mixed|parking lot에서 service van에 치여 femur가 broken 됨.
+B20|plain|A worker was hit by a service van in the parking lot and broke his thigh bone.
+B20|jargon|The employee was struck by a service van in a parking lot, sustaining a femoral fracture.
+B21|mixed|tractor를 운전하던 중 engine이 overheated 되어 불이 났고 burns와 smoke inhalation을 입음.
+B21|plain|A worker was driving a tractor when the engine got too hot and caught fire. He was burned and breathed in smoke.
+B21|jargon|While operating a tractor, the engine overheated and ignited, causing thermal burns and smoke inhalation to the operator.
+B22|mixed|pressure washer에 gasoline을 채우다가 tank를 놓쳐 fuel이 다리에 튀었고, hot engine 때문에 gas가 ignited 되어 한쪽 다리에 burn을 입음.
+B22|plain|A worker was putting gas in a pressure washer. The gas can slipped out of his hand and gas splashed on his legs, the hot engine set it on fire, and one leg was burned.
+B22|jargon|While refueling a pressure washer, the employee lost grip of the tank and fuel splashed onto his lower extremities; the fuel ignited on contact with the hot engine, causing thermal burns to one leg.
+B23|mixed|power washer에 gasoline을 채우던 중 combustion이 발생해 face에 flash burn을 입고 hospitalized 됨.
+B23|plain|A worker was putting gasoline in a power washer when it flared up. His face was burned by the flash and he was in the hospital.
+B23|jargon|During refueling of a power washer with gasoline, combustion occurred, resulting in facial flash burns and hospital admission.
+B24|mixed|gas leak이 있는 건물을 ventilating 하던 중 문을 열자 gas가 ignited 되어 face와 neck에 1도 burn, 양손에 2도 burn을 입음.
+B24|plain|A worker was airing out a building that had a gas leak. When he opened the door, the gas caught fire. His face and neck were lightly burned and both hands were burned badly.
+B24|jargon|While ventilating a structure with a gas release, the employee opened a door and the accumulated gases ignited, causing first-degree burns to the face and neck and second-degree burns to both hands.
+B25|mixed|aluminum sweat furnace를 start up 하던 중 arm과 elbow에 burn을 입음.
+B25|plain|A worker was starting up an aluminum melting furnace and burned his arm and elbow.
+B25|jargon|During start-up of an aluminum sweat furnace, the employee sustained thermal burns to the forearm and elbow.
+B26|mixed|steel producing facility에서 pipe 작업을 하던 중 pipe 안의 flammable material이 ignited 되어 face와 torso에 burn을 입음.
+B26|plain|A worker was working on a pipe at a steel plant when something that burns easily inside the pipe caught fire. His face and body were burned.
+B26|jargon|While working on piping at a steelmaking facility, flammable material within the pipe ignited, producing thermal burns to the face and torso.
+B27|mixed|client location에서 security 업무 중, 오른쪽 pocket에 있던 spare lithium-ion flashlight battery가 explode 하여 thigh에 2도 burn을 입음.
+B27|plain|A security worker at a client site had a spare rechargeable flashlight battery in his right pocket. The battery blew up and burned his thigh badly.
+B27|jargon|While providing security services at a client site, a spare lithium-ion flashlight cell underwent explosive failure in the employee's right pocket, causing second-degree burns to the thigh.
+B28|mixed|sand silo에서 sand를 shoveling 하던 중 flash fire/explosion이 발생해 직원 2명이 burn을 입었고 face와 hand burn으로 hospitalized 됨.
+B28|plain|Two workers were shoveling sand out of a sand silo when a sudden fire and blast happened. They were burned on the face and hands and went to the hospital.
+B28|jargon|During manual removal of sand from a silo, a flash fire/explosion occurred, causing burns to two employees' faces and hands that required hospitalization.
+B29|mixed|tankless water heater를 lighting 하던 중 explosion이 발생해 직원이 burn을 입음.
+B29|plain|A worker was lighting a water heater (the kind with no tank) when it blew up and he was burned.
+B29|jargon|While igniting a tankless water heater, an explosion occurred, causing thermal burns to the employee.
+B30|mixed|남은 cardboard box를 태우다가 gust of wind가 불꽃을 직원 쪽으로 불어 shirt에 불이 붙었고 2도 burn을 입음.
+B30|plain|A worker was burning extra cardboard boxes when a gust of wind pushed the flames at him. His shirt caught fire and he got bad burns.
+B30|jargon|While incinerating surplus cardboard, a wind gust directed the flames toward the employee, igniting his clothing and producing second-degree burns.
+B31|mixed|scanner를 사용하던 중 scanner cord에 걸려 넘어져 hip fracture를 입음.
+B31|plain|A worker was using a scanner, tripped on its cord, fell, and broke his hip.
+B31|jargon|While operating a scanner, the employee tripped over its cord and fell, sustaining a hip fracture.
+B32|mixed|stairs를 내려가다가 footing을 잃어 오른쪽 ankle fracture를 입었고 hospitalization이 필요했음.
+B32|plain|A worker lost his footing going down the stairs and broke his right ankle, and he had to be in the hospital.
+B32|jargon|The employee lost footing while descending a staircase and sustained a right ankle fracture requiring hospital admission.
+B33|mixed|roof 위를 걷다가 insulation을 밟아 roof를 뚫고 아래 ground로 떨어졌고, 바닥에 있던 welding unit에 부딪혀 leg가 broken 됨.
+B33|plain|A worker was walking on a roof and stepped on insulation, so he fell through the roof to the ground below. He hit a welding machine on the ground and broke his leg.
+B33|jargon|While traversing a roof, the employee stepped on insulation and fell through the roof deck to the ground, impacting a welding unit and sustaining a leg fracture.
+B34|mixed|drink order를 채우러 다니다가 loose floor tile에 걸려 넘어져 오른쪽 leg가 broken 됨.
+B34|plain|A worker was walking around filling drink orders and tripped on a loose floor tile. She fell and broke her right leg.
+B34|jargon|While fulfilling beverage orders, the employee tripped on a dislodged floor tile and fell, sustaining a right lower-extremity fracture.
+B35|mixed|commercial roof에서 laps를 welding 하던 중 slip 하여 약 13 feet 아래로 추락했고 humerus, rib, spinal wing이 broken 되고 pelvic fracture도 입음.
+B35|plain|A worker was welding seams on a flat commercial roof when he slipped and fell about 13 feet. He broke his upper arm bone, a rib and part of his spine, and his hip bones.
+B35|jargon|While welding laps on a commercial roof, the employee slipped and fell approximately 13 feet, sustaining fractures of the humerus, rib, a vertebral process, and the pelvis.
+B36|mixed|electrical short에 놀라서 ladder에서 떨어져 head injury와 broken collarbone을 입음.
+B36|plain|A worker was on a ladder and got startled by a short circuit, then fell off. He hurt his head and broke his collarbone.
+B36|jargon|The employee was startled by an electrical short and fell from a ladder, sustaining cranial injuries and a clavicle fracture.
+B37|mixed|step ladder 또는 rolling staircase에서 상품을 stocking 하다가 step을 헛디뎌 floor로 떨어져 왼쪽 hip을 다쳤고 hospitalized 됨.
+B37|plain|A worker was putting products on shelves from a step ladder or rolling stairs, missed a step and fell to the floor. He hurt his left hip and went to the hospital.
+B37|jargon|While stocking merchandise from a step ladder or rolling stair unit, the employee missed a step and fell to the floor, injuring the left hip and requiring hospitalization.
+B38|mixed|office 문으로 나와 courtyard로 이어지는 steps를 내려가다가 last step에 다가갈 때 넘어져 왼쪽 ankle이 broken 되었고 hospitalized 후 surgery를 받음.
+B38|plain|A worker was going out the office door and down the steps to the courtyard. Near the last step she fell and broke her left ankle, and she was in the hospital and had surgery.
+B38|jargon|While exiting an office and descending steps to a courtyard, the employee fell upon approaching the final step, sustaining a left ankle fracture requiring hospitalization and surgery.
+B39|mixed|resident에게 shower를 시켜 준 직후 밖으로 나오다가 왼쪽 ankle을 twist 하며 넘어졌고 hospitalized 되어 surgery가 필요했음.
+B39|plain|A worker had just finished helping a resident take a shower. When she stepped out she twisted her left ankle and fell, went to the hospital and needed surgery.
+B39|jargon|Upon completing a resident's shower, the employee stepped out, inverted her left ankle and fell, necessitating hospital admission and surgery.
+B40|mixed|parking lot의 patch of ice에 미끄러져 넘어지며 hip으로 떨어졌고 왼쪽 hip이 broken 되어 hospitalized 됨.
+B40|plain|A worker slipped on a patch of ice in the parking lot and fell on his hip. His left hip was broken and he was in the hospital.
+B40|jargon|The employee slipped on an ice patch in a parking lot and fell onto the hip, sustaining a left hip fracture requiring hospitalization.
+B41|mixed|molding machine의 plastic injection port에서 solidified plastic plug를 제거하던 중 hot plastic 조각이 skin에 닿아 오른쪽 forearm에 thermal burn을 입음.
+B41|plain|A worker was pulling a hardened plastic plug out of the injection opening of a molding machine when pieces of hot plastic touched his skin and burned his right forearm.
+B41|jargon|While clearing a solidified polymer plug from the injection port of a molding machine, molten polymer fragments contacted the skin, causing thermal burns to the right forearm.
+B42|mixed|needlestick 이후 처방된 medication에 adverse reaction이 발생함.
+B42|plain|After being stuck by a needle, a worker had a bad reaction to the medicine he was prescribed.
+B42|jargon|Following a needlestick exposure, the employee experienced an adverse drug reaction to the prescribed medication.
+B43|mixed|약 70 feet 깊이에서 sea cucumber를 diving으로 채취한 뒤 다리에 numbness를 느꼈고 decompression sickness로 hospitalized 됨.
+B43|plain|A worker was diving for sea cucumbers about 70 feet deep. After coming up, his legs went numb and he was in the hospital for the bends.
+B43|jargon|Following a dive to approximately 70 feet for sea cucumber harvesting, the employee developed lower-extremity paresthesia and was hospitalized for decompression illness.
+B44|mixed|tool을 가지러 enclosed substation에 들어갔다가 arc flash로 hands와 arms에 2도 burn을 입고 hospitalized 됨.
+B44|plain|A worker went into a closed electrical substation to get a tool. An electrical flash burned his hands and arms badly and he went to the hospital.
+B44|jargon|The employee entered an enclosed substation to retrieve a tool and was exposed to an arc flash, sustaining second-degree burns to the hands and forearms requiring hospitalization.
+B45|mixed|engineering technician이 electrical panel을 testing 하던 중 arc flash가 발생해 arm과 hand에 burn을 입음.
+B45|plain|A technician was testing an electrical panel when there was a big electrical flash that burned his arm and hand.
+B45|jargon|While testing an electrical panel, the engineering technician was subjected to an arc flash event resulting in burns to the arm and hand.
+B46|mixed|넘치는 process water를 pumping 하다가 hot process water가 든 open hole에 발이 빠져 ankle에 2도 burn을 입음.
+B46|plain|A worker was pumping out water that was overflowing and stepped into an open hole full of hot water. His ankle got bad burns.
+B46|jargon|While pumping overflowing process water, the employee stepped into an open pit containing heated process water, sustaining second-degree scalds to the ankle.
+B47|mixed|steam vault에서 작업하던 중 steam이 release 되어 2도 burn을 입음.
+B47|plain|A worker in an underground steam room was burned badly when steam came out suddenly.
+B47|jargon|While working in a steam vault, the employee sustained second-degree burns from a steam release.
+B48|mixed|orange를 따던 중 dehydrated 되어 illness, cramping, headache 증상이 나타났고 heat exhaustion으로 hospitalized 됨.
+B48|plain|A worker was picking oranges and got dried out from the heat, feeling sick with cramps and a headache. He was in the hospital for heat exhaustion.
+B48|jargon|While harvesting oranges, the employee developed dehydration with malaise, muscle cramping and cephalalgia, and was hospitalized for heat exhaustion.
+B49|mixed|tower를 climbing 하던 중 hand와 arm에 cramping이 왔고 약 한 시간 뒤 ill 해져 heat-related illness로 hospitalized 됨.
+B49|plain|A worker's hands and arms started cramping while climbing a tower. About an hour later he got sick and was in the hospital with heat sickness.
+B49|jargon|During a tower climb the employee experienced upper-extremity muscle cramping, became ill approximately an hour later, and was hospitalized for heat-related illness.
+B50|mixed|lightning storm 중 roof에서 내려와 work van에 타려는데 lightning이 ground를 쳐서 van에 타는 순간 shock를 받음.
+B50|plain|A worker came down off a roof during a thunderstorm and was getting into his work van. Lightning hit the ground and he got an electric shock as he climbed in.
+B50|jargon|After leaving a roof during a lightning storm, the employee was entering his work van when lightning struck the ground, delivering an electrical shock as he entered the vehicle.
+B51|mixed|cattle에게 antibiotic을 주사하는 데 쓰던 needle을 cleaning 하다가 needle이 왼쪽 thumb을 puncture 함.
+B51|plain|A worker was cleaning needles used to give cows antibiotic shots when a needle stuck into his left thumb.
+B51|jargon|While cleaning needles used for bovine antibiotic injection, the employee sustained a puncture wound to the left thumb from a needle.
+B52|mixed|pipe rack roller의 chain and roller cover를 adjust 하던 중 오른쪽 index finger가 chain과 sprocket 사이에 끼어 laceration을 입음.
+B52|plain|A worker was adjusting the cover on a chain and roller of a pipe rack. His right pointer finger got caught between the chain and the toothed wheel and was cut.
+B52|jargon|While adjusting a guard on a chain and roller assembly of a pipe rack roller, the employee's right index finger was entrapped between the chain and sprocket, resulting in a laceration.
+B53|mixed|onion chopper로 onion을 자르다가 왼쪽 thumb의 tip이 amputated 됨.
+B53|plain|A worker was chopping onions with an onion chopper and cut off the tip of his left thumb.
+B53|jargon|While cutting onions with a chopper, the employee sustained an amputation of the distal tip of the left thumb.
+B54|mixed|steel wedge의 point를 grinding 하던 중 grinder가 왼쪽 thumb을 끌어당겨 tip이 amputated 됨.
+B54|plain|A worker was sharpening a point on a steel wedge with a grinder. The grinder pulled in his left thumb and cut off the tip.
+B54|jargon|While grinding a point on a steel wedge, the grinder drew in the employee's left thumb, causing a distal tip amputation.
+B55|mixed|coil이 de-coiler 위로 내려오는 중 label을 떼려던 직원이 coil에 맞아 오른쪽 foot이 broken 됨.
+B55|plain|A big coil of metal was being lowered onto an uncoiling machine. A worker was trying to pull off a label and the coil hit him, breaking his right foot.
+B55|jargon|During lowering of a coil onto a de-coiler, an employee attempting to remove a label was struck by the coil, sustaining a right foot fracture.
+B56|mixed|maintenance technician이 grease를 pumping 하는 equipment를 cleaning 하던 중 hand가 pulley와 belt 사이에 끼어 오른쪽 middle fingertip이 amputated 됨.
+B56|plain|A maintenance worker was cleaning a machine that pumps grease when his hand got caught between a wheel and a belt on it. The tip of his right middle finger was cut off.
+B56|jargon|A maintenance technician cleaning grease-pumping equipment had a hand entrapped between a pulley and belt, resulting in amputation of the right middle fingertip.
+B57|mixed|steel piece를 roller에 넣어 rolling 하다가 오른쪽 pinky finger가 roller에 끼어 fingertip이 amputated 됨.
+B57|plain|A worker was rolling a piece of steel through a roller and his right little finger got caught in the roller. The fingertip was cut off.
+B57|jargon|While feeding steel through a rolling mill, the employee's right fifth digit was entrapped in the rolls, causing fingertip amputation.
+B58|mixed|come-along으로 chain conveyor를 adjust 하던 중 chain이 미끄러져 왼손을 잡아당겼고 middle fingertip이 nailbed에서 amputated 됨.
+B58|plain|A worker was tightening a chain conveyor with a hand winch when the chain slipped and caught his left hand, cutting off the tip of his middle finger at the nail.
+B58|jargon|While adjusting a chain conveyor using a come-along, the chain slipped and entrapped the left hand, amputating the middle fingertip at the nailbed.
+B59|mixed|tool cart를 옮기다가 왼손이 cart와 door frame 사이에 끼어 hand에 open fracture를 입음.
+B59|plain|A worker was pushing a tool cart when his left hand got squeezed between the cart and a door frame. The bone in his hand broke through the skin.
+B59|jargon|While moving a tool cart, the employee's left hand was compressed between the cart and a door frame, resulting in an open fracture of the hand.
+B60|mixed|temporary 직원이 hydraulic press 안의 part를 straightening 하는데 press가 activate 되어 왼쪽 middle, ring finger가 first knuckle에서 amputated 됨.
+B60|plain|A temp worker was straightening a part in a hydraulic press when the press turned on. His left middle and ring fingers were cut off at the first knuckle.
+B60|jargon|A temporary employee was realigning a workpiece in a hydraulic press when the press cycled, amputating the left middle and ring fingers at the first joint.
+B61|mixed|truck에서 내리다가 misstep 하여 이전에 있던 hernia를 left lower abdomen에 re-injure 함.
+B61|plain|A worker was getting out of his truck and misstepped, and hurt again an old hernia in his lower left belly.
+B61|jargon|While dismounting from a truck, the employee misstepped and reinjured a pre-existing hernia in the left lower abdominal quadrant.
+B62|mixed|child를 lifting 하다가 left shoulder, neck, back을 다쳐 hospitalized 됨.
+B62|plain|A worker hurt her left shoulder, neck and back while picking up a child and was in the hospital.
+B62|jargon|The employee sustained injuries to the left shoulder, cervical spine and back while lifting a child and was hospitalized.
+B63|mixed|delivery truck에서 walk-in cooler로 lettuce box를 옮기던 중 오른쪽 hip에 pain과 nerve damage가 발생함.
+B63|plain|A worker was carrying a box of lettuce from the delivery truck to the walk-in fridge and got pain in his right hip and a damaged nerve.
+B63|jargon|While carrying a box of lettuce from a delivery truck to a walk-in cooler, the employee experienced right hip pain with neural injury.
+B64|mixed|feed conveyor에서 cardboard sheets를 제거하려던 중 acute lower back pain이 생겨 overnight hospitalization이 필요했음.
+B64|plain|A worker was taking sheets of cardboard off a conveyor when his lower back suddenly hurt badly, and he stayed overnight in the hospital.
+B64|jargon|While removing cardboard sheets from a feed conveyor, the employee developed acute lumbar pain requiring overnight hospital admission.
+B65|mixed|vise에 물린 part를 pipe wrench로 풀다가 wrench가 움직이면서 양쪽 knee 위 thigh muscle이 torn 되어 hospitalized 후 surgery가 필요했음.
+B65|plain|A worker was using a pipe wrench to loosen a part held in a vise. When the wrench slipped, the thigh muscles above both his knees tore, and he was in the hospital and needed surgery.
+B65|jargon|While using a pipe wrench to loosen a component in a vise, the wrench shifted, causing bilateral thigh muscle tears at the knees requiring hospitalization and surgery.
+B66|mixed|milk가 가득 찬 80-pound cart가 stuck 되어 옮기다가 muscle strain이 생겼고, 병원에서 collapsed lung 진단을 받음.
+B66|plain|A worker was moving an 80-pound cart full of milk that was stuck. He pulled a muscle, went to the hospital, and was told he had a collapsed lung.
+B66|jargon|While attempting to move a stuck 80-pound cart of milk, the employee suffered a muscle strain and was subsequently diagnosed with a pneumothorax.
+B67|mixed|forest work 환경에 대비한 physical conditioning과 training을 하던 중 ill 해지고 muscle injury를 입음.
+B67|plain|A worker was exercising and training to get ready for forest work conditions. He got sick and hurt his muscles.
+B67|jargon|During physical conditioning and training to prepare for forestry work conditions, the employee became ill and sustained a muscular injury.
+B68|mixed|cart를 밀던 중 hip에서 snap과 pain을 느꼈고 prosthetic hip이 broken 되어 hospitalization이 필요했음.
+B68|plain|A worker was pushing a cart when he felt something snap and hurt in his hip. His artificial hip broke and he had to be in the hospital.
+B68|jargon|While pushing a cart, the employee felt a snap and pain in the hip; the hip prosthesis fractured, requiring hospital admission.
+B69|mixed|MRI를 위해 환자 position을 잡는 것을 돕다가 환자를 옮기던 중 lower right back에서 "pop" 소리가 들리고 느껴졌으며 hospitalized 됨.
+B69|plain|A worker was helping a patient get into position for an MRI. While moving the patient she heard and felt a pop in the lower right side of her back and went to the hospital.
+B69|jargon|While assisting a patient into position for an MRI, the employee heard and felt a "pop" in the right lumbar region and was hospitalized.
+B70|mixed|waste sorting machine의 internal maintenance를 하던 중 tight space에서 기어 나오려다 back injury를 입음.
+B70|plain|A worker was fixing the inside of a waste sorting machine and hurt his back while trying to crawl out of the tight space.
+B70|jargon|While performing internal maintenance on a waste sorting machine, the employee sustained a back injury while egressing a confined space.
